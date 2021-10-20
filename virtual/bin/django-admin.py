@@ -1,4 +1,4 @@
-#!/home/moringa/Documents/moringa-core/DJANGO/instagram-clone/virtual/bin/python
+#!/home/moringa/Documents/moringa-core/DJANGO/etgre/virtual/bin/python
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
